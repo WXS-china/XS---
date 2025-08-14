@@ -1,6 +1,6 @@
 XS病毒 - 请勿在实体机启动(后果自负)
 
-目前版本:1.0
+目前版本:1.14
 
 作者bilibili页面:https://space.bilibili.com/3493276898298079?spm_id_from=..0.0
 
