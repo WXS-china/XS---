@@ -10,4 +10,6 @@ XS病毒 - 请勿在实体机启动(后果自负)
 
 作者朋友抖音页面(凑字数):https://www.douyin.com/user/MS4wLjABAAAADPR-RJgHy1B98niXtOLzXIudSA2zw-Fi2pz3YYs5gtSMTA9o1NUEabWMUwaaXw1V?from_tab_name=main
 
+作者朋友2抖音页面(凑字数):https://www.douyin.com/user/MS4wLjABAAAAL5-Syii4IgHKnZ0kyTIV4Ruv3K4ebIzG_00X9nAiu0c?from_tab_name=main
+
 请勿在实体机启动本仓库病毒,后果自负
